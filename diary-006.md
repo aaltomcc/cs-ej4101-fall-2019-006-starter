@@ -1,2 +1,16 @@
 # My motivation to this course
+The initial motivation is to learn what is DevOps and how does it apply in the companies or research groups. When I was looking for the jobs related to user experience, one company has talked about skills on DevOps. Thus, I am curious about it. I have used GitHub for only several times last year on some course projects on human computer interaction. However, my skills on it are very limited. It is a very useful tool for group works, thus, it must be more suitable for the companies. When I knew we would use Git to practice the project, I thought this course is what I would like to choose.
+
+For the content that I expected to learn in this course, I really would like to know what is DevOps and the related technologies. I have heard that it is useful for the version control and I am very interested in it. How to achieve it is very interesting for me, because all applications need to be updated frequently and it is hard to make the version update without any gap for users. Besides, I also expect to know how different departments work in the companies or practice projects. Teamwork is very important in any area, thus, if I understand how other departments work and how to cooperate, I will do better in teamwork and my own area. What's more, I don't have computer science background before, thus I also want to learn more basic skills on coding during this course through practice project.
 # Learning diary
+After learning the online material and some guides on Git, for example the interactive tutorial on how to quickly write Markdown content, I have the basic understanding of DevOps and related practice skills. The new contents I learned from this course are:
+* The main goal of DevOps is to reduce the time between implementing a feature and deploying that feature in production.
+* The CAMS model is more about the ways of DevOps. It is Culture, Automation, Monitoring and Sharing.
+* DevOps practices are deeply integrated with the company culture and business.
+* Continuous integration covers buliding an application and performing different kinds of tests.
+* Git is a version control system, allowing to keep track of files as well as their history.
+* The ways of writing Markdown language on headers, emphasis, lists, links, images, paragraphs and so on.
+* The markdown content can be considered as the "source" of a website and publishing the corresponding HTML as its deployment.
+* Continuous delivery/deloyment pipelines can be represented as a directed graph which may contain cycles.
+
+The most challenging part for me is the automation part of the online vedioes. And when I doing the questionnaire, I also met some problems on this part. The parts before chapter4: Automation-Condiguration Management are closer to the real life, especially the examples. But when it comes to this chapter, I was a little confused about some professional words, thus, I need to check their meanings during watching the video. It may because I have limited background on computer science, so I am not familiar with some common professional words for coding or programming process. Because of these challenging parts and the practice project, I think I learnt much more than I expected before.
