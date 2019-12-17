@@ -11,4 +11,4 @@ My hometown is a small but very beautiful city. The scenery of it is shown below
 ![Zhangjiakou autum](https://cdn.pixabay.com/photo/2018/03/10/01/35/outdoor-3213072_1280.jpg)
 
 ## More about me
-If you would like to know more about my learning diary about the course CS-EJ4101 - Introduction to DevOps, you can click [diary-006.md](https://github.com/aaltomcc/cs-ej4101-fall-2019-006-starter/blob/master/diary-006.md).
+If you would like to know more about my learning diary about the course CS-EJ4101 - Introduction to DevOps, you can click [diary-006.md](https://aaltomcc.github.io/cs-ej4101-fall-2019-006-starter/diary-006.html).
